@@ -1,0 +1,22 @@
+[
+  {
+    "ip": "172.28.0.1",
+    "hostname": "172.28.0.1",
+    "state": "vulnerable"
+  },
+  {
+    "ip": "172.28.0.11",
+    "hostname": "172.28.0.11",
+    "state": "vulnerable"
+  },
+  {
+    "ip": "172.28.0.12",
+    "hostname": "172.28.0.12",
+    "state": "vulnerable"
+  },
+  {
+    "ip": "172.28.0.13",
+    "hostname": "172.28.0.13",
+    "state": "vulnerable"
+  }
+]
