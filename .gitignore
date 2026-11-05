@@ -21,3 +21,4 @@ logs/*.json
 # IDE
 .vscode/
 *.swp
+monitoring/dashboard/output/*.png
