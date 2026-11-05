@@ -22,3 +22,4 @@ logs/*.json
 .vscode/
 *.swp
 monitoring/dashboard/output/*.png
+monitoring/dashboard/output/*.png
