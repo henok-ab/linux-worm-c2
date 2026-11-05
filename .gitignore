@@ -1,0 +1,23 @@
+# Sliver artifacts — NEVER commit
+sliver-c2/configs/*.cfg
+sliver-c2/implants/
+*.exe
+*.bin
+sliver-server
+sliver-client
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Lab data
+logs/*.log
+logs/*.json
+*.xml
+*.jsonl
+
+# IDE
+.vscode/
+*.swp
