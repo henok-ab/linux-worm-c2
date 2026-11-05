@@ -1,0 +1,6 @@
+# Host-discovery configuration for the worm-lab
+network: 172.28.0.0/24
+# -sn = ping scan (host discovery only, no port scan)
+# -PE, -PS22, -PS80 = ICMP echo + TCP SYN to 22/80 for better coverage
+nmap_args: "-sn -PE -PS22,80,443"
+output_xml: "host-discovery/scan.xml"
